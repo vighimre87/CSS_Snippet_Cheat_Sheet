@@ -1,0 +1,12 @@
+body {
+    color: blueviolet;
+    background-color: #33393f;
+}
+
+
+.flexContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: dotted 2px;
+}
