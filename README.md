@@ -8,11 +8,13 @@ As I mentioned above the webpage is designed for newbie developers to provide co
 
 ![alt text](assets/images/full-webpage.png)
 
+
 You can also highlight a code snippet by simply clicking on it as you can see on the picture below:
+
 ![alt text](assets/images/highlighted-code.png)
 
 ## Credits
 N/A
 
 ## License
-Plese refer to the LICENSE file.
+Plese refer to the LICENSE file in the repo.
